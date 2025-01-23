@@ -4,7 +4,7 @@ def Show_Participant_history (name) :
             print(f"Your name is : {participant['Name']} " )
 
             for participation in participant['Participations'] :
-                print(f"Date : {participation['Date']} , Score : {participation['Score']}" )
+                print(f"Date : {participation['Date']} , Category :{participation['Category']} , Score : {participation['Score']}" )
 
 def save_data(filename, data):
     with open(filename, 'w') as file:
