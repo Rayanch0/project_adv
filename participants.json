@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "abderraouf",
+        "Participations": [
+            {
+                "Date": "23/01/2025",
+                "Category": "Python",
+                "Score": 8
+            },
+            {
+                "Date": "23/01/2025",
+                "Category": "Python",
+                "Score": 4
+            },
+            {
+                "Date": "23/01/2025",
+                "Category": "Algorithmique",
+                "Score": 1
+            },
+            {
+                "Date": "23/01/2025",
+                "Category": "Network",
+                "Score": 8
+            },
+            {
+                "Date": "23/01/2025",
+                "Category": "Animes",
+                "Score": 0
+            },
+            {
+                "Date": "23/01/2025",
+                "Category": "Network",
+                "Score": 5
+            }
+        ]
+    },
+    {
+        "Name": "Ryad",
+        "Participations": [
+            {
+                "Date": "23/01/2025",
+                "Category": "Python",
+                "Score": 7
+            },
+            {
+                "Date": "23/01/2025",
+                "Category": "Animes",
+                "Score": 3
+            }
+        ]
+    },
+    {
+        "Name": "walid",
+        "Participations": [
+            {
+                "Date": "23/01/2025",
+                "Category": "Network",
+                "Score": 5
+            }
+        ]
+    }
+]

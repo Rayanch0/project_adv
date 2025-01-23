@@ -1,0 +1,40 @@
+Name: abderraouf
+Date: 23/01/2025
+
+QCM Results:
+Question 1: What does TCP stand for?
+Your Answer: a
+
+Question 2: Which protocol is used to translate domain names into IP addresses?
+Your Answer: a
+Correct Answer: b
+
+Question 3: Which layer of the OSI model is responsible for routing and forwarding data?
+Your Answer: a
+Correct Answer: b
+
+Question 4: What is the default port number for HTTP?
+Your Answer: a
+Correct Answer: c
+
+Question 5: Which protocol is used to securely transfer files over a network?
+Your Answer: a
+Correct Answer: b
+
+Question 6: What is the role of a DHCP server?
+Your Answer: a
+
+Question 7: What is the size of an IPv4 address?
+Your Answer: a
+
+Question 8: Which command is used to test the connectivity between two devices on a network?
+Your Answer: a
+
+Question 9: What is the maximum transmission unit (MTU) for Ethernet?
+Your Answer: a
+
+Question 10: What is the primary purpose of a firewall?
+Your Answer: a
+Correct Answer: b
+
+Score: 5/10

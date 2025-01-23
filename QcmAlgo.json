@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the time complexity of binary search in a sorted array?",
+        "options": ["a. O(n)\n", "b. O(log n)\n", "c. O(n^2)\n"],
+        "answer": "b"
+    },
+    {
+        "question": "Which data structure is commonly used to implement a stack?",
+        "options": ["a. Array\n", "b. Linked List\n", "c. Both\n"],
+        "answer": "c"
+    },
+    {
+        "question": "What is the base case in recursion?",
+        "options": ["a. The condition to stop recursion\n", "b. The first recursive call\n", "c. The case that triggers infinite recursion\n"],
+        "answer": "a"
+    },
+    {
+        "question": "Which algorithm is used to find the shortest path in a graph?",
+        "options": ["a. Dijkstra's Algorithm\n", "b. Kruskal's Algorithm\n", "c. Floyd-Warshall Algorithm\n"],
+        "answer": "a"
+    },
+    {
+        "question": "What is the space complexity of the merge sort algorithm?",
+        "options": ["a. O(1)\n", "b. O(log n)\n", "c. O(n)\n"],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is a divide-and-conquer algorithm?",
+        "options": ["a. Merge Sort\n", "b. Quick Sort\n", "c. Both\n"],
+        "answer": "c"
+    },
+    {
+        "question": "What is a greedy algorithm?",
+        "options": ["a. An algorithm that tries all possibilities\n", "b. An algorithm that makes the locally optimal choice at each step\n", "c. An algorithm that backtracks to find the best solution\n"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the worst-case time complexity of bubble sort?",
+        "options": ["a. O(n)\n", "b. O(n log n)\n", "c. O(n^2)\n"],
+        "answer": "c"
+    },
+    {
+        "question": "What is the purpose of a hashing function?",
+        "options": ["a. To sort data efficiently\n", "b. To map data to a fixed-size value\n", "c. To compress data\n"],
+        "answer": "b"
+    },
+    {
+        "question": "Which traversal algorithm is used to visit all nodes in a graph level by level?",
+        "options": ["a. Depth-First Search\n", "b. Breadth-First Search\n", "c. Topological Sort\n"],
+        "answer": "b"
+    }
+]

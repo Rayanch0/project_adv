@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What does SQL stand for?",
+        "options": ["a. Simple Query Language\n", "b. Structured Query Language\n", "c. Standard Query Logic\n"],
+        "answer": "b"
+    },
+    {
+        "question": "Which type of key uniquely identifies a record in a table?",
+        "options": ["a. Foreign Key\n", "b. Primary Key\n", "c. Composite Key\n"],
+        "answer": "b"
+    },
+    {
+        "question": "Which command is used to retrieve data from a database?",
+        "options": ["a. INSERT\n", "b. SELECT\n", "c. UPDATE\n"],
+        "answer": "b"
+    },
+    {
+        "question": "What is a foreign key used for?",
+        "options": ["a. To uniquely identify a table\n", "b. To establish relationships between tables\n", "c. To create indexes\n"],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a NoSQL database?",
+        "options": ["a. MySQL\n", "b. MongoDB\n", "c. PostgreSQL\n"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the purpose of an index in a database?",
+        "options": ["a. To delete duplicate records\n", "b. To speed up data retrieval\n", "c. To enforce data integrity\n"],
+        "answer": "b"
+    },
+    {
+        "question": "What is a transaction in a database?",
+        "options": ["a. A single SQL command\n", "b. A group of SQL commands executed as a single unit\n", "c. A table relationship\n"],
+        "answer": "b"
+    },
+    {
+        "question": "Which SQL clause is used to filter records based on a condition?",
+        "options": ["a. WHERE\n", "b. GROUP BY\n", "c. HAVING\n"],
+        "answer": "a"
+    },
+    {
+        "question": "What does ACID stand for in database systems?",
+        "options": ["a. Atomicity, Consistency, Isolation, Durability\n", "b. Accuracy, Consistency, Integrity, Durability\n", "c. Atomicity, Calculation, Integration, Durability\n"],
+        "answer": "a"
+    },
+    {
+        "question": "Which command is used to remove a table from a database?",
+        "options": ["a. DROP\n", "b. DELETE\n", "c. TRUNCATE\n"],
+        "answer": "a"
+    }
+]
