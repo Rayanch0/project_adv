@@ -1,0 +1,52 @@
+[
+    {
+        "question": "In the anime *Naruto*, what is the name of Naruto's signature attack?",
+        "options": ["a. Chidori\n", "b. Rasengan\n", "c. Kamehameha\n"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the main goal of Luffy in *One Piece*?",
+        "options": ["a. To become the Pirate King\n", "b. To destroy the Marines\n", "c. To protect the Grand Line\n"],
+        "answer": "a"
+    },
+    {
+        "question": "In *Dragon Ball Z*, what is Goku’s Saiyan name?",
+        "options": ["a. Raditz\n", "b. Kakarot\n", "c. Vegeta\n"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the name of the school in *My Hero Academia*?",
+        "options": ["a. Shiketsu High\n", "b. U.A. High School\n", "c. Hero Academy\n"],
+        "answer": "b"
+    },
+    {
+        "question": "In *Attack on Titan*, what is Eren's primary titan ability?",
+        "options": ["a. The Colossal Titan\n", "b. The Attack Titan\n", "c. The Beast Titan\n"],
+        "answer": "b"
+    },
+    {
+        "question": "Who is the main character in *Death Note*?",
+        "options": ["a. L\n", "b. Light Yagami\n", "c. Ryuk\n"],
+        "answer": "b"
+    },
+    {
+        "question": "In *Demon Slayer*, what is Tanjiro's primary goal?",
+        "options": ["a. To become a Hashira\n", "b. To cure his sister Nezuko\n", "c. To defeat the Twelve Kizuki\n"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the name of the virtual world in *Sword Art Online*'s first season?",
+        "options": ["a. Alfheim Online\n", "b. Aincrad\n", "c. Underworld\n"],
+        "answer": "b"
+    },
+    {
+        "question": "In *Hunter x Hunter*, what is the name of Gon’s best friend?",
+        "options": ["a. Killua\n", "b. Kurapika\n", "c. Leorio\n"],
+        "answer": "a"
+    },
+    {
+        "question": "In *Fullmetal Alchemist: Brotherhood*, what is the rule of Equivalent Exchange?",
+        "options": ["a. To gain something, something of equal value must be lost\n", "b. To create, one must destroy\n", "c. Alchemy requires no price\n"],
+        "answer": "a"
+    }
+]
