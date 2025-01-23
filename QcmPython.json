@@ -1,0 +1,57 @@
+[
+    {     
+        "question": "What is the correct file extension for Python files?",
+        "options": ["a. .py\n", "b. .pt\n", "c. .python\n"],
+        "answer": "a"
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["a. func\n", "b. def\n", "c. function\n"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the output of print(2 ** 3)?",
+        "options": ["a. 6\n", "b. 8\n", "c. 9\n"],
+        "answer": "b"
+      },
+      {
+        "question": "Which data type is mutable in Python?",
+        "options": ["a. Tuple\n", "b. List\n", "c. String\n"],
+        "answer": "b"
+      },
+      {
+        "question": "Which function is used to get user input in Python?",
+        "options": ["a. input()\n", "b. get_input()\n", "c. read()\n"],
+        "answer": "a"
+      },
+      {
+        "question": "What does the `len()` function do?",
+        "options": ["a. Counts elements in a list\n", "b. Returns the last element of a list\n", "c. Removes duplicates from a list\n"],
+        "answer": "a"
+      },
+      {
+        "question": "Which of the following is not a Python data type?",
+        "options": ["a. Dictionary\n", "b. Set\n", "c. Array\n"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the correct syntax to import a module in Python?",
+        "options": ["a. include math\n", "b. import math\n", "c. use math\n"],
+        "answer": "b"
+      },
+      {
+        "question": "What does `//` operator do in Python?",
+        "options": ["a. Performs integer division\n", "b. Performs modulo operation\n", "c. Performs bitwise AND\n"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the default value returned by a function in Python if no return statement is provided?",
+        "options": ["a. None\n", "b. 0\n", "c. False\n"],
+        "answer": "a"
+      }
+        
+
+    
+]
+
+  
